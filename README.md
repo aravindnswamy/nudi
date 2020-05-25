@@ -19,10 +19,13 @@ More than 570 new websites are created every minute.
 There are over 3.5 billion searches per day on Google.
 192.168.1.1
 Phone:+(91) 9999999999
+
 ➜  ~ nudi rows ~/Desktop/sample
 4
+
 ➜  ~ nudi columns ~/Desktop/sample
 1
+
 ➜  ~ nudi splitBy are ~/Desktop/sample
 Hello World!
 Over 3.8 billion people use the internet today, which is 40% of the world's population.
